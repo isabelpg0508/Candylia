@@ -47,7 +47,7 @@ Actualmente el sistema cuenta con:
 * Acceso al sistema dependiendo del rol.
 * Conexión entre React, Spring Boot y MySQL.
 
-## 🗄️ Base de datos
+## Base de datos
 
 Actualmente la base de datos contiene principalmente la información relacionada con los usuarios.
 
