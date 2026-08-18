@@ -1,7 +1,5 @@
 # Candylia
 
-# Candylia
-
 ## Descripción
 
 **Candylia** es un proyecto académico desarrollado para la gestión de una dulcería. El sistema busca facilitar el manejo de las ventas y el inventario, permitiendo tener un mayor control sobre los gastos y las operaciones del negocio.
